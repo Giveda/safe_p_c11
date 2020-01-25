@@ -1,4 +1,4 @@
-# safe_p_c11 = Giveda® C Language Safe Pointer   
+# Giveda® C Language Safe Pointer   
 中文版本： https://gitee.com/giveda/safe_p_c11/blob/master/README.md  
 
 C pointer which can be set to NULL automatically when the memory(the pointer pointed to) be freed.  

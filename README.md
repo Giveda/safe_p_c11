@@ -1,4 +1,4 @@
-# safe_p_c11 = Giveda® C语言安全指针   
+# Giveda® C语言安全指针   
 for English, please refer to: https://gitee.com/giveda/safe_p_c11/blob/master/README.en.md  
 
 采用c语言编写，小巧灵活，从语言封装的层面解决了“野指针问题”，不再依靠工程师的个人编程技巧，是C/C++工程师的福音。会自动清零的指针，安全指针。    
